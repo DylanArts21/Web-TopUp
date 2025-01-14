@@ -44,9 +44,12 @@ body.dark-mode header {
     background-color: #333;
 }
 
-header .logo {
+hheader .logo {
     height: 45px;
+    min-width: 45px;
+    transform: scale(2.5);
 }
+
 
 header h1 {
     margin: 0;
